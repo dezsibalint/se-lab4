@@ -1,0 +1,6 @@
+# Create a ship with stocked torpedo stores that never fails
+GT4500,2,0,2,0
+TORPEDO,SINGLE #Should have fired from primary
+TORPEDO,SINGLE  #Should have fired from secondary
+TORPEDO,ALL     #Should have fired from all
+TORPEDO,SINGLE  #Should have fired from primary
